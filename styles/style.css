@@ -1,0 +1,63 @@
+.photo{
+    padding-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.redtext{
+    width: 385px;
+    height: 65px;
+    overflow: hidden;
+    /* white-space: pre-wrap;
+    word-wrap: break-word;
+    word-break: break-word; */
+    width: 99%;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Montserrat", serif;
+    color: #ff0000;
+    font-size: 36px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-align: center;
+    padding-top: 20px;
+  }
+
+  .plaintext {
+    height: 76px;
+    overflow: hidden;
+    /* white-space: pre-wrap;
+    word-wrap: break-word;
+    word-break: break-word; */
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Montserrat", serif;
+    color: #2b2b2b;
+    font-size: 24px;
+    letter-spacing: 0px;
+    line-height: 1.5;
+    width: 70%;
+    text-align: center;
+    padding-left: 160px;
+    margin-top: 0px;
+  }
+
+  .line{
+    width: 410px;
+    height: 50px;
+    overflow: hidden;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    word-break: break-word;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Montserrat", serif;
+    color: #2b2b2b;
+    font-size: 24px;
+    letter-spacing: 0px;
+    line-height: 1.5;
+    width: 99%;
+    text-align: center;
+    margin-top: 40px;
+  }
