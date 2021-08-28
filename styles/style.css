@@ -21,6 +21,10 @@
     letter-spacing: 0px;
     line-height: 1.2;
     text-align: center;
+    
+  }
+
+  #name{
     padding-top: 20px;
   }
 
@@ -43,6 +47,10 @@
     margin-top: 0px;
   }
 
+  .left-image{
+      column-count: 2;
+  }
+
   .line{
     width: 410px;
     height: 50px;
@@ -61,3 +69,55 @@
     text-align: center;
     margin-top: 40px;
   }
+
+  .skills {
+    width: 532px;
+    height: 413px;
+    overflow: visible;
+    float: left;
+    padding-left: 40px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-top: 40px;
+  }
+
+  #skills{
+      width: 50%;
+      text-align: center;
+      display: inline-block;
+      margin-top: 180px;
+      padding-left: 20px;
+  }
+
+  .right-text{
+    width: 385px;
+    height: 132px;
+    margin-top: -15px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    word-break: break-word;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Montserrat", serif;
+    color: #2b2b2b;
+    font-size: 24px;
+    letter-spacing: 0px;
+    line-height: 1.5;
+    text-align: center;
+  }
+
+  .right-text-line{
+  width: 410px;
+  height: 50px;
+  overflow: hidden;
+  white-space: pre-wrap;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Montserrat", serif;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0px;
+  line-height: 1.5;
+  text-align: center;
+  }
+
