@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "cv",
+			"path": "."
+		},
+		{
+			"name": "css",
+			"path": "../../../Downloads/bootstrap-5.1.0-dist/css"
+		},
+		{
+			"name": "js",
+			"path": "../../../Downloads/bootstrap-5.1.0-dist/js"
+		}
+	],
+	"settings": {}
+}
